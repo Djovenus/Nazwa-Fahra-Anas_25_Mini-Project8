@@ -1,0 +1,26 @@
+.body{
+  font-family: Times New Roman;
+  text-align: center;
+  font-size: 30px;
+}
+.header {
+height: 120px;
+background-color: aqua;
+}
+
+.sidebar {
+width: 300px;
+height: 400px;
+background-color: blue;
+float: left;
+}
+
+.content {
+height: 400px;
+background-color: orange;
+}
+
+.footer {
+height: 70px;
+background-color: green;
+}
